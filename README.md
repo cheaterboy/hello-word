@@ -1,2 +1,3 @@
 # hello-word
-just a new repository
+
+i am shubham gupta,new user to github
